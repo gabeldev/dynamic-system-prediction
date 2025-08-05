@@ -33,7 +33,7 @@ if __name__ == '__main__':
     plt.figure(figsize=(12,5))
     plt.subplot(1, 2, 1)
     plt.plot(t, theta)
-    plt.title("Posição angular θ(t)")
+    plt.title("Posiçã angular θ(t)")
     plt.xlabel("Tempo")
     plt.ylabel("θ")
 
